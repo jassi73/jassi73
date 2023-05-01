@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jassi73
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Next js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Next js Projects and wanna do some open source 
 - 
 
 <!---
